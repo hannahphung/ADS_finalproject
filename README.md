@@ -21,6 +21,9 @@
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-1.png)
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/f1scorem3.png)
 
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/f1scorem3.png)
+
+
 
 ## Discussion/Insights
 
