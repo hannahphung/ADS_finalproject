@@ -46,11 +46,12 @@ Constructing more complex ensemble models
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/hierachical.png)
 
 **Multimodal approach:** 
+Multimodal approach incorporate metadata including age, sex, and localization (i.e. where on the body the disease appear)
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/multimodal.png)
 
 **Using the best model to test on secondary dataset:** 
 
-Multimodal approach incorporate metadata including age, sex, and localization (i.e. where on the body the disease appear)
+The best model is multimodal with DenseNet201
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/secondary_data.png)
 
 # Code Details
