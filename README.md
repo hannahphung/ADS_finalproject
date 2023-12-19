@@ -31,11 +31,14 @@ Dataset: [HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/dense.png)
 Build on top of baseline model by adding other features to help with performance and avoid overfitting: Data Augmentation, Input Normalization, Batch Normalization, and Dropout
 
-Constructing more complex ensem models \\
+Constructing more complex ensemble models 
+
 **Average Ensemble:** 
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/average_ensemble.png)
 
 **Classes that are usually misclassified as each other:**
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/class12.png)
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/class36.png)
 
 **Hierarchical Ensemble:** 
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/hierachical.png)
