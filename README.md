@@ -16,11 +16,15 @@
 
 # Results and Observations
 
+## Milestone 2
+
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-5.png)
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-6.png)
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-7.png)
+
 ## Milestone 3
 
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-1.png)
-![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/f1scorem3.png)
-
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/f1scorem3.png)
 
 
