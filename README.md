@@ -81,15 +81,15 @@ The best model is multimodal with DenseNet201
 
 
 # References
-*Datasets:
- *HAM10000: (https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
- *ISIC-2019: (https://challenge.isic-archive.com/data/#2019) 
-*Models we evaluated:
- *DenseNet201: (https://www.kaggle.com/code/farshadjafari97/skincancer-detection-multiple-models-83-accuracy)
- *ResNet50: (https://www.kaggle.com/code/farshadjafari97/skincancer-detection-multiple-models-83-accuracy)
-*Model for Data Augmentation:
- *ImageDataGenerator: (https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
-*Link to model checkpoint: 
+* Datasets:
+  * HAM10000: (https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
+  * ISIC-2019: (https://challenge.isic-archive.com/data/#2019) 
+* Models we evaluated:
+ * DenseNet201: (https://www.kaggle.com/code/farshadjafari97/skincancer-detection-multiple-models-83-accuracy)
+ * ResNet50: (https://www.kaggle.com/code/farshadjafari97/skincancer-detection-multiple-models-83-accuracy)
+* Model for Data Augmentation:
+ * ImageDataGenerator: (https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
+* Link to model checkpoint: 
 
 
 
