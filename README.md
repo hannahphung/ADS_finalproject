@@ -4,15 +4,22 @@
 
 # Project Description
 
+## Dataset Preprocessing
+
+
 ## Project Framework / Model Architectures
 
 
 
-# Code Structure 
+# Code Details
 
 
 # Results and Observations
-![alt text](https://github.com/hannahphung/Ads/blob/[branch]/image.jpg?raw=true)
+
+## Milestone 3
+
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-1.png)
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/f1scorem3.png)
 
 
 ## Discussion/Insights
