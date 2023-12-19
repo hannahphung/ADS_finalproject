@@ -1,4 +1,4 @@
-# ADS_finalproject
+# ADS Final Project
 * Project Member : Yen Le, Hannah Phung and Manjiri Bhandarwar
 * Project Goal : Skin disease detection by images using Deep Learning 
 
@@ -68,7 +68,7 @@ The best model is multimodal with DenseNet201
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/secondary_data.png)
 
 # Code Details
-
+* Collab Notebooks are annotated with appropriate subheadings for each part. 
 
 # Results and Observations
 
