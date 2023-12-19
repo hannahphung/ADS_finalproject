@@ -12,7 +12,7 @@
 
 
 # Results and Observations
-
+![alt text](https://github.com/hannahphung/Ads/blob/[branch]/image.jpg?raw=true)
 
 
 ## Discussion/Insights
