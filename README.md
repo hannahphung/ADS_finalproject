@@ -77,6 +77,13 @@ The best model is multimodal with DenseNet201
 * There is a significant improvement in the macro average F1 score. For minority class (6) F1 doubles 0.84 from previous milestone.
 
 ## Discussion/Insights
+* Model performs well on majority classes but not on the minority class due to high class imbalance. \
+* Multi-modal model performs the best out of all since it gives additional context (age, sex, localization)  to our image data! \
+* Ensemble methods to outperform individual models due to their ability to combine multiple models to produce a stronger, more robust prediction. \ 
+* Data nature also matters along with sample size \ 
+* In our future work, we could take other approaches on image preprocessing to increase the distinctiveness of each class, such as adjusting saturation and contrast, or find a hair removal software like our initial plan, rather than simply enlarging data size! \ 
+* Sometimes the goodness of a model is random (we trained a model from scratch twice because once the checkpoint wasn’t saved, and we discovered that their results differ). \ 
+
 
 
 
@@ -95,9 +102,7 @@ The best model is multimodal with DenseNet201
 * Model for Data Augmentation:
   
     * ImageDataGenerator: (https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator)
-   
-* Link to model checkpoint: 
-
+  
 
 
 
