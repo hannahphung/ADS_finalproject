@@ -45,6 +45,14 @@ Constructing more complex ensemble models
 - The final stage of the pipeline focuses on pairs of classes (class 1 vs 2 and class 3 vs 6)  that are usually mistaken for each other in the single model case. 
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/hierachical.png)
 
+**Multimodal approach:** 
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/multimodal.png)
+
+**Using the best model to test on secondary dataset:** 
+
+Multimodal approach incorporate metadata including age, sex, and localization (i.e. where on the body the disease appear)
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/secondary.png)
+
 # Code Details
 
 
