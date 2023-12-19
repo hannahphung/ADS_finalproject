@@ -51,7 +51,7 @@ Constructing more complex ensemble models
 **Using the best model to test on secondary dataset:** 
 
 Multimodal approach incorporate metadata including age, sex, and localization (i.e. where on the body the disease appear)
-![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/secondary.png)
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/secondary_data.png)
 
 # Code Details
 
