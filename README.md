@@ -4,6 +4,19 @@
 
 # Project Description
 
+* Skin disease classification is a task that aims to create a tool to assist dermatologists in making accurate skin disease diagnosis. The popular deep learning models for our problem are CNNs, RNNs and GANs. We refer to six related works in the field and decided to use pre-trained CNNs models with ImageNet to deal with skin disease classification tasks. We also aim to use diverse techniques to improve performances and evaluate their safety, reliability and generalizability. 
+
+* The project evaluates the performance of existing DenseNet201, ResNet50, along with Average Ensemble, Hierarchical Ensemble, CNNs, Siamese Networks, Multimodal Classification on a series of metrics:
+
+  * Variation of model’s loss and accuracy in both training and testing process.
+  
+  * Confusion Matrix Classification Report that includes accuracy, presion, recall and avengers f-1 score.
+  
+  * Model’s performance using complex ensemble and multimodal data.
+  
+  * Model’s ability to generalize to tasks in new datasets (ISIC-2019 dataset).
+
+
 ## Project Flow
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/method.png)
 
