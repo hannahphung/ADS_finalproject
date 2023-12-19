@@ -23,7 +23,10 @@ Dataset: [HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham
   * Random flipping of images
 
 ## Project Framework / Model Architectures
-
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/method.png)
+Baseline models: Pretrained DenseNet201 and ResNet50, 95 Base layers freezed and fine-tuned with HAM10000 dataset. Also used learning rate scheduler: ReduceLRONPlateau + Exponential decay and early Stopping
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/res.png)
+![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/dense.png)
 
 
 # Code Details
