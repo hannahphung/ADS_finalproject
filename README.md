@@ -41,6 +41,8 @@ Constructing more complex ensemble models
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/class36.png)
 
 **Hierarchical Ensemble:** 
+- To deal with data imbalance, each classifier focuses on classes or combinations of classes that have comparable size. For example, classifier 1 distinguishes between class 0 (around 66% of the dataset) and the remaining 6 classes
+- The final stage of the pipeline focuses on pairs of classes (class 1 vs 2 and class 3 vs 6)  that are usually mistaken for each other in the single model case. 
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/hierachical.png)
 
 # Code Details
