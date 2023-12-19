@@ -65,12 +65,16 @@ The best model is multimodal with DenseNet201
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-6.png)
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-7.png)
 
+* For DenseNet201, as we progress from the baseline model to the model that uses both batch normalization and dropout, the accuracy stays around the same (0.78-0.80). For ResNet50, accuracy drops after adding input normalization. For DenseNet201, the macro-averaged F1 score increased up till and peaked after adding input normalization, and for ResNet50 it increased up till and peaked after adding data augmentation and then started decreasing for both. Batch normalization and dropout reduced F1 scores for both DenseNet201 and ResNet50, but way more significantly for ResNet50.
+* Best Model from Milestone 2: DenseNet201 with Data Augmentation and Input Normalization (macro average F1 0.64, accuracy of 0.80). For minority class (6) F1 is 0.42.
+
 ## Milestone 3
 
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/download-1.png)
 ![alt text](https://github.com/hannahphung/ADS_finalproject/blob/main/img/f1scorem3.png)
 
-
+* Best Model from Milestone 3: Multimodal DenseNet201 (macro average F1 0.75, accuracy of 0.83)
+* There is a significant improvement in the macro average F1 score. For minority class (6) F1 doubles 0.84 from previous milestone.
 
 ## Discussion/Insights
 
