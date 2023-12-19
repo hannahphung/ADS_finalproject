@@ -4,6 +4,8 @@
 
 # Project Description
 
+## Project Flow
+
 ## Dataset Preprocessing
 
 Dataset: [HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
